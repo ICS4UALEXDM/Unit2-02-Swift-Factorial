@@ -1,0 +1,7 @@
+5! = 120
+8! = 40320
+Error: FFFFF is not valid for this program
+3! = 6
+12! = 479001600
+Error: 4.6 is not valid for this program
+Error: loandbehold is not valid for this program
